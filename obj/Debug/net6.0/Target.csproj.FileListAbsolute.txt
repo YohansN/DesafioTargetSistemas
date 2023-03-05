@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\Target\bin\Debug\net6.0\Target.exe
+C:\Users\Usuário\source\repos\Target\bin\Debug\net6.0\Target.deps.json
+C:\Users\Usuário\source\repos\Target\bin\Debug\net6.0\Target.runtimeconfig.json
+C:\Users\Usuário\source\repos\Target\bin\Debug\net6.0\Target.dll
+C:\Users\Usuário\source\repos\Target\bin\Debug\net6.0\Target.pdb
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.dll
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\refint\Target.dll
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.pdb
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\Target.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Target\obj\Debug\net6.0\ref\Target.dll
